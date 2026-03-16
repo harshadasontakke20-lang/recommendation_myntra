@@ -49,7 +49,7 @@ This project can serve as a foundation for building **more complex e-commerce ap
 
 ## About the Author
 
-**[Your Name]** is a front-end web developer passionate about creating **interactive, responsive, and user-friendly web applications**. This project showcases the author’s skills in **HTML, CSS, and JavaScript**, along with their understanding of **UI/UX design principles**.
+**[Harshada Sontakke_12_VLSI_MDM-WEB DEVELOPMENT]** is a front-end web developer passionate about creating **interactive, responsive, and user-friendly web applications**. This project showcases the author’s skills in **HTML, CSS, and JavaScript**, along with their understanding of **UI/UX design principles**.
 
 ---
 
